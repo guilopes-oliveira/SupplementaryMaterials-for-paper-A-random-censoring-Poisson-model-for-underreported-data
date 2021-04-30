@@ -3,3 +3,6 @@ SupplementaryMaterial for paper "A random-censoring Poisson model for underrepor
 
 Scripts to reproduce the simulations experiments and the application to neonatal mortality data in Minas Gerais, Brazil, will be available.
 The datasets are also provided.
+Details are provided in the main paper.
+
+Other scripts can be made available from the first author upon request by email guilopes2110@gmail.com
